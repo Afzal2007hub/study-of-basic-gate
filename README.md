@@ -102,7 +102,14 @@ endmodule
 
 
 **RTL**
+<img width="1582" height="375" alt="image" src="https://github.com/user-attachments/assets/d0fd38f9-e148-4311-bfe6-1f40e26ad011" />
 
-**Result:**
+
+
+
+
+
+**Result:** Thus the given logic functions are implemented using and their operations
+are verified using Verilog programming
 
 
